@@ -14,6 +14,6 @@ class MainFrame : public wxFrame {
 	public:
 		// Window title name argument.
 		MainFrame(const wxString &title);
-
+		void printExamm();
 
 };
