@@ -21,7 +21,7 @@
     <ClCompile Include="app.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main-frame-exam.cpp">
+    <ClCompile Include="main-frame-bk.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

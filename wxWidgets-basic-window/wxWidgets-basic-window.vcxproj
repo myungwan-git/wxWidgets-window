@@ -24,7 +24,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="app.cpp" />
-    <ClCompile Include="main-frame-exam.cpp" />
+    <ClCompile Include="main-frame-bk.cpp" />
     <ClCompile Include="main-frame.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
