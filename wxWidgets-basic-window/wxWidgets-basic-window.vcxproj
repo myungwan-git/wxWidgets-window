@@ -22,6 +22,7 @@
     <ClInclude Include="app.h" />
     <ClInclude Include="dynamic-event.h" />
     <ClInclude Include="main-frame.h" />
+    <ClInclude Include="mouse-event.h" />
     <ClInclude Include="static-event.h" />
   </ItemGroup>
   <ItemGroup>
@@ -29,6 +30,7 @@
     <ClCompile Include="dynamic-event.cpp" />
     <ClCompile Include="main-frame-bk.cpp" />
     <ClCompile Include="main-frame.cpp" />
+    <ClCompile Include="mouse-event.cpp" />
     <ClCompile Include="static-event.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
