@@ -40,6 +40,7 @@ wxCheckBox(wxWindow *parent,
 wxBU_LEFT : 왼쪽 정렬
 */
 
+/*
 MainFrame::MainFrame(const wxString &title) 
 	// 최상위 widgets이므로 부모가 없다. 따라서 부모는 nullptr. 
 	// pos, size는 기본사이즈로 등록되고 나머지2개는 생략가능하다.
@@ -104,3 +105,4 @@ MainFrame::MainFrame(const wxString &title)
 										  arrayString,1, wxRB_GROUP);
 	radioBox->Select(2);
 }
+*/

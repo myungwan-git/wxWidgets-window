@@ -1,5 +1,7 @@
 #include "app.h"
 #include "main-frame.h"
+#include "static-event.h"
+#include "dynamic-event.h"
 #include <wx/wx.h>
 
 // Start

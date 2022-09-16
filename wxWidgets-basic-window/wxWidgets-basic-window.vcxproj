@@ -20,12 +20,16 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="app.h" />
+    <ClInclude Include="dynamic-event.h" />
     <ClInclude Include="main-frame.h" />
+    <ClInclude Include="static-event.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="app.cpp" />
+    <ClCompile Include="dynamic-event.cpp" />
     <ClCompile Include="main-frame-bk.cpp" />
     <ClCompile Include="main-frame.cpp" />
+    <ClCompile Include="static-event.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
