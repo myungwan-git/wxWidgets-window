@@ -36,6 +36,9 @@
     <ClCompile Include="mouse-event.cpp">
       <Filter>소스 파일\event</Filter>
     </ClCompile>
+    <ClCompile Include="keybord-event.cpp">
+      <Filter>소스 파일\event</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main-frame.h">
@@ -51,6 +54,9 @@
       <Filter>소스 파일\event</Filter>
     </ClInclude>
     <ClInclude Include="mouse-event.h">
+      <Filter>소스 파일\event</Filter>
+    </ClInclude>
+    <ClInclude Include="keybord-event.h">
       <Filter>소스 파일\event</Filter>
     </ClInclude>
   </ItemGroup>

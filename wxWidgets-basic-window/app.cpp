@@ -3,6 +3,8 @@
 #include "static-event.h"
 #include "dynamic-event.h"
 #include "mouse-event.h"
+#include "keybord-event.h"
+
 #include <wx/wx.h>
 
 // Start
